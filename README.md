@@ -1,4 +1,4 @@
-# - project name -
+# - Device Script Examples -
 
 This project uses [DeviceScript](https://microsoft.github.io/devicescript/).
 
